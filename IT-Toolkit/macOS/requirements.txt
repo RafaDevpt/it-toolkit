@@ -33,7 +33,7 @@ customtkinter>=5.2.2,<6.0
 # EN-UK: Reading memory and mounted volumes. If missing, the application still
 #        opens and those values become unavailable. Uptime comes from sysctl and
 #        the load average from Python itself; neither depends on this package.
-psutil>=5.9,<7.0
+psutil>=5.9,<8.0
 
 # ===========================================================================
 # PT-PT: O Tkinter não se instala pelo pip. O Python do sistema traz uma versão

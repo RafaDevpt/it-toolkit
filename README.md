@@ -10,11 +10,12 @@
 **Windows diagnostics suite for daily IT operations**
 
 ![Status](https://img.shields.io/badge/status-active-2EA043?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-2.0.0-1F6FEB?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Windows_only-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Release](https://img.shields.io/github/v/release/RafaDevpt/it-toolkit?style=for-the-badge&color=1F6FEB)](https://github.com/RafaDevpt/it-toolkit/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/RafaDevpt/it-toolkit/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/RafaDevpt/it-toolkit/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Platforms](https://img.shields.io/badge/Windows_·_Linux_·_macOS-0078D6?style=for-the-badge)
 
-<a href="../../tree/main"><img src="https://img.shields.io/badge/←_back_to_index-30363D?style=flat-square" /></a>
+<a href="https://github.com/RafaDevpt/Personal-AI-Projects"><img src="https://img.shields.io/badge/←_back_to_index-30363D?style=flat-square" /></a>
 
 </div>
 

@@ -1,0 +1,18 @@
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: "/IT-Toolkit/Linux"
+    schedule:
+      interval: weekly
+  - package-ecosystem: pip
+    directory: "/IT-Toolkit/Windows"
+    schedule:
+      interval: weekly
+  - package-ecosystem: pip
+    directory: "/IT-Toolkit/macOS"
+    schedule:
+      interval: weekly
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly

@@ -63,7 +63,7 @@ jobs:
         working-directory: IT-Toolkit/${{ matrix.versao }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Preparar Python / Set up Python
         uses: actions/setup-python@v5

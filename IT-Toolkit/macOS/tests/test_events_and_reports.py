@@ -85,7 +85,7 @@ class TestAssinatura:
                relatório de parque, contam como um.
         EN-UK: The same error on two Macs differs only in the user's name.
         """
-        a = events.assinatura("cannot open /Users/rafael/Documents/x")
+        a = events.assinatura("cannot open /Users/utilizador/Documents/x")
         b = events.assinatura("cannot open /Users/maria/Documents/x")
         assert a == b
 

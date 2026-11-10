@@ -20,7 +20,7 @@ Created by Redfox using Claude
 
 __version__ = "4.0.0"
 __app_name__ = "IT Toolkit"
-__author__ = "Rafael Santos (Redfox)"
+__author__ = "Redfox"
 __license__ = "MIT"
 __credit__ = "Created by Redfox using Claude"
 

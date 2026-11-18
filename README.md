@@ -5,19 +5,29 @@
 
 <div align="center">
 
-# 🔧 IT Toolkit
+<img src="Assets/banner.svg" width="100%" alt="IT Toolkit" />
 
-**Windows diagnostics suite for daily IT operations**
+<br />
 
-![Status](https://img.shields.io/badge/status-active-2EA043?style=for-the-badge)
-[![Release](https://img.shields.io/github/v/release/RafaDevpt/it-toolkit?style=for-the-badge&color=1F6FEB)](https://github.com/RafaDevpt/it-toolkit/releases)
-[![CI](https://img.shields.io/github/actions/workflow/status/RafaDevpt/it-toolkit/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/RafaDevpt/it-toolkit/actions/workflows/ci.yml)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Platforms](https://img.shields.io/badge/Windows_·_Linux_·_macOS-0078D6?style=for-the-badge)
+[![CI](https://img.shields.io/github/actions/workflow/status/RafaDevpt/it-toolkit/ci.yml?branch=main&style=flat-square&label=CI&labelColor=0b1220)](https://github.com/RafaDevpt/it-toolkit/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/RafaDevpt/it-toolkit?style=flat-square&label=release&color=2dd4bf&labelColor=0b1220)](https://github.com/RafaDevpt/it-toolkit/releases/latest)
+![status](https://img.shields.io/badge/status-active-2dd4bf?style=flat-square&labelColor=0b1220)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&labelColor=0b1220&logo=python&logoColor=white)
+![platforms](https://img.shields.io/badge/platforms-Windows_·_Linux_·_macOS-0078D6?style=flat-square&labelColor=0b1220)
+![licence](https://img.shields.io/badge/licence-GPL--3.0-f59e0b?style=flat-square&labelColor=0b1220)
 
-<a href="https://github.com/RafaDevpt/Personal-AI-Projects"><img src="https://img.shields.io/badge/←_back_to_index-30363D?style=flat-square" /></a>
+<br /><br />
+
+<a href="https://github.com/RafaDevpt/Personal-AI-Projects"><img src="https://img.shields.io/badge/←_back_to_the_index-30363d?style=for-the-badge" /></a>
+<a href="https://github.com/RafaDevpt/it-toolkit/releases/latest"><img src="https://img.shields.io/badge/download_the_latest_release_→-2dd4bf?style=for-the-badge&labelColor=0b1220" /></a>
+
+<sub>Part of <a href="https://github.com/RafaDevpt/Personal-AI-Projects"><b>Personal AI Projects</b></a> by Redfox</sub>
 
 </div>
+
+# 🔧 IT Toolkit
+
+> **Diagnostics suite for daily IT operations — Windows, Linux and macOS**
 
 ---
 
@@ -25,9 +35,9 @@
 
 Most Windows troubleshooting starts the same way: open Event Viewer, scroll through thousands of entries, recognise the three or four that actually matter, and remember what they meant last time.
 
-IT Toolkit collapses that into a single window. It reads the machine's event logs, **flags the entries that indicate a real problem, explains what each one means, and suggests a remediation** — then compiles the findings into a report you can hand over or attach to a ticket.
+IT Toolkit collapses that into a single window. It reads the machine's event logs, **flags the entries that indicate a real problem, explains what each one means, and suggests a remediation** — then compiles the findings into a report ready to hand over or attach to a ticket.
 
-Everything else in the toolkit exists for the same reason: the checks you run twenty times a week, one click away instead of five.
+Everything else in the toolkit exists for the same reason: the checks an IT team runs twenty times a week, one click away instead of five.
 
 ---
 
@@ -38,7 +48,7 @@ Everything else in the toolkit exists for the same reason: the checks you run tw
 | 🏠 **Dashboard** | System health at a glance — uptime, resource pressure, outstanding warnings |
 | 📋 **Event Logs** | Reads System / Application / Security logs, filters noise, classifies severity and **suggests fixes** |
 | 🌐 **Network** | Adapter state, IP configuration, DNS resolution, connectivity and port checks |
-| ⚡ **Quick Tools** | The one-liners you repeat daily — cache flushes, service restarts, spooler resets |
+| ⚡ **Quick Tools** | The one-liners repeated daily — cache flushes, service restarts, spooler resets |
 | 💾 **Disks** | Volume usage, free space thresholds, SMART status where available |
 | ⚙️ **Services** | Service state, startup type, start / stop / restart |
 | 📊 **Inventory** | Hardware and software inventory, OS build, installed updates |
@@ -128,7 +138,7 @@ Events are matched against a rule set of known Event IDs and sources, each carry
 
 ---
 
-## License
+## Licence
 
 GPL-3.0 — see [`LICENSE`](LICENSE) in the repository root.
 
